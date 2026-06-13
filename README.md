@@ -1,5 +1,5 @@
 # AI Governance Lab
-AI Governance Lab: Practical frameworks, architectures, controls, and operational workflows for responsible AI, AI risk management, ISO 42001, and enterprise governance modernization.
+AI Governance Lab: Practical frameworks, architectures, risks, threats, controls, platforms, and operational workflows for responsible AI, AI risk management, ISO 42001, and enterprise governance modernization.
 
 ## Mission
 
