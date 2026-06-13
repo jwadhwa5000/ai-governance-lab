@@ -39,6 +39,7 @@ This repository contains frameworks, architectures, controls, operational workfl
 - [ ] ServiceNow Workflow Examples
 - [ ] Executive Dashboard Examples
 - [ ] Synthetic Repository Demonstration
+- [ ] Platforms across AI Lifecycle
 
 ## Author
 
